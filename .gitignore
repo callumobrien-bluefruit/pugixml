@@ -1,2 +1,4 @@
 /build/
 /.vscode/
+*.vcxproj.user
+scripts/vs2017
